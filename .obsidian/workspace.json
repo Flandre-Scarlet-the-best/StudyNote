@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b92645786299e368",
+        "id": "88bbc2cae1c59e33",
         "type": "tabs",
         "children": [
           {
-            "id": "c52a9a8fea75a070",
+            "id": "ee867eff804d8be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Японский/Глаголы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76ff092a46954d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Японский/Грамматика японского.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Японский/Грамматика японского.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Японский/Грамматика японского.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Японский/Грамматика японского.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,19 +167,25 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "239b935a828ee34f",
+  "active": "ee867eff804d8be3",
   "lastOpenFiles": [
+    "GIT.md",
+    "Японский/た ー деепричастие.md",
+    "Японский/Сложные предложения.md",
+    "Японский/Грамматика японского.md",
+    "Японский/Вспомогательные глаголы.md",
+    "Японский/Противопоставления.md",
+    "Японский.md",
+    "Java.md",
+    "Японский/「A」つもり.md",
     "Японский/Союзы.md",
     "Японский/誰（が、で、に、を、の、か、も）.md",
-    "Японский/Грамматика японского.md",
     "Японский/Направленные глаголы.md",
     "Японский/「A」は「B」に「C」をあげる.md",
     "Японский/Глаголы.md",
     "Японский/Выражения.md",
     "Японский/「A」のが下手.md",
-    "Японский/Вспомогательные глаголы.md",
     "Японский/「A」のが上手.md",
-    "Японский/「A」つもり.md",
     "Японский/「A」ている - повторяющиеся действие.md",
     "Японский/「A」ことがある.md",
     "Японский/「A」方がいい.md",
@@ -202,12 +195,6 @@
     "Японский/「A」ませんか.md",
     "Японский/「A」ましょう.md",
     "Японский/Формы слов.md",
-    "Японский/Выборы.md",
-    "Японский/「A」より「B」の方が（C）.md",
-    "Японский/「A」の中で「B」が一番（C）.md",
-    "Японский/Перечисления.md",
-    "Японский/て - перечисление прилагательных.md",
-    "Японский/Противительные союзы.md",
     "map",
     "Projects - Demo Project",
     "Cache/Pasted image 20240917195217.png",
