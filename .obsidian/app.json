@@ -3,5 +3,6 @@
   "attachmentFolderPath": "Cache",
   "newFileLocation": "root",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false
 }

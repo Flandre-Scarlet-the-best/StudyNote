@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22a122cf9c0e0dfb",
+        "id": "4e673f35cd962a34",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6ab8e3cef3d7f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Японский/Грамматика японского.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a264e5f6fce7dc",
+            "id": "63abe7b5ae246b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,19 +16,37 @@
                 "file": "Шаблон/無題のファイル.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
             }
           },
           {
-            "id": "178c1ad25364784b",
+            "id": "0eeb4c9bd62b4a88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Японский/Указательные местоимения.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
+            "id": "f0816a3cccf2fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
             }
           }
         ],
@@ -65,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -80,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -88,14 +97,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 220.5
   },
   "right": {
     "id": "ce5ed2ada0df5767",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Японский/Указательные местоимения.md",
+                "file": "Японский/Грамматика японского.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Грамматика японского"
             }
           },
           {
@@ -128,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Японский/Указательные местоимения.md",
+                "file": "Японский/Грамматика японского.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Грамматика японского"
             }
           },
           {
@@ -142,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -151,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Японский/Указательные местоимения.md"
-              }
+                "file": "Японский/Грамматика японского.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Грамматика японского"
             }
           },
           {
@@ -160,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -168,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -189,57 +212,56 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "178c1ad25364784b",
+  "active": "f0816a3cccf2fcc9",
   "lastOpenFiles": [
-    "Японский/Указательные местоимения/На の/あの「A」.md",
-    "Японский/Указательные местоимения/На の/その「A」.md",
-    "Японский/Указательные местоимения/На の/この「A」.md",
-    "Японский/Указательные местоимения/На こ/あそこ「A」.md",
-    "Японский/Указательные местоимения/На こ/ここ「A」.md",
-    "Японский/Указательные местоимения/На こ/そこ「A」.md",
-    "Японский/Указательные местоимения/На れ/あれ「A」.md",
-    "Японский/Указательные местоимения/На れ/これ「A」.md",
-    "Японский/Указательные местоимения/На れ/それ「A」.md",
-    "Японский/Указательные местоимения/それ「A」.md",
-    "Японский/Указательные местоимения/その「A」.md",
-    "Японский/Указательные местоимения/そこ「A」.md",
-    "Японский/Указательные местоимения/これ「A」.md",
-    "Японский/Указательные местоимения/この「A」.md",
-    "Японский/Указательные местоимения/ここ「A」.md",
-    "Японский/Указательные местоимения/あれ「A」.md",
-    "Японский/Указательные местоимения/あの「A」.md",
-    "Японский/Указательные местоимения/あそこ「A」.md",
+    "Git/Ветки.md",
+    "GIT.md",
+    "Git/Переключение веток.md",
+    "Git/Создание ветки.md",
+    "Git/Перенос незакоммиченных изменений.md",
+    "Git/Уровни настроек.md",
+    "Git/Удаление файлов из git.md",
+    "Java.md",
+    "Java/Класс Scanner.md",
+    "Java/Операторы ветвления.md",
+    "Java/Класс String.md",
+    "Японский/Грамматика японского.md",
+    "Японский.md",
+    "「A」必要.md",
+    "Шаблон/無題のファイル.md",
+    "Без названия 2.md",
+    "でござる、でございます.md",
+    "丁寧語.md",
+    "ござる.md",
+    "尊敬語.md",
+    "お「A」ください.md",
+    "お、ご「A」になる.md",
+    "お/ご「A」になる.md",
+    "お",
+    "お「A」なさる.md",
+    "「A」は「B」に（C）てあげる.md",
+    "「A」てみる.md",
+    "Без названия",
+    "Cache/Pasted image 20241024013305.png",
+    "[加瀬大輝] Consolation/16.jpg",
+    "[加瀬大輝] Consolation/05.jpg",
+    "[加瀬大輝] Consolation/03.jpg",
+    "[加瀬大輝] Consolation/02.jpg",
+    "[加瀬大輝] Consolation/01.jpg",
+    "[加瀬大輝] Consolation/08.jpg",
+    "[加瀬大輝] Consolation/15.jpg",
+    "[加瀬大輝] Consolation/14.jpg",
+    "[加瀬大輝] Consolation/13.jpg",
+    "[加瀬大輝] Consolation",
     "Японский/Указательные местоимения/На の",
     "Японский/Указательные местоимения/Новая папка",
     "Японский/Указательные местоимения/На こ",
     "Японский/Указательные местоимения/На れ",
-    "Японский/Указательные местоимения/На れ.md",
-    "Японский/Указательные местоимения/На の.md",
-    "Японский/Указательные местоимения/На こ.md",
     "Японский/Указательные местоимения",
     "Японский/Новая папка",
-    "Японский/Грамматика японского.md",
-    "Японский/Направленные глаголы.md",
-    "Японский/Направленные глаголы/「A」は「B」に「C」をもらう.md",
-    "Японский/Направленные глаголы/「A」は「B」に「C」をくれる.md",
-    "Японский/Направленные глаголы/「A」は「B」に「C」をあげる.md",
-    "Японский/Направленные глаголы",
-    "Японский/Выборы",
-    "Японский/Количественные слова",
-    "Японский/Перечисления",
-    "Cache/Pasted image 20240924041559.png",
-    "Cache/Pasted image 20240924024219.png",
-    "Cache/Pasted image 20240917195217.png",
-    "Cache/Pasted image 20240917191946.png",
-    "Cache/Pasted image 20240912175911.png",
-    "Cache/Pasted image 20240910033206.png",
-    "Cache/Pasted image 20240910032030.png",
-    "Cache/Pasted image 20240910025925.png",
-    "Cache/Pasted image 20240910025303.png",
-    "Cache/Pasted image 20240910022724.png"
+    "Японский/Направленные глаголы"
   ]
 }

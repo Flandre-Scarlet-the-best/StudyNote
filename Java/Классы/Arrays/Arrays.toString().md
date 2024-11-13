@@ -11,6 +11,6 @@ String str=Arrays.toString(mas);
 System.out.println(str);
 ```
 На консоль будет выведено:
-**[1, 2, -3, 4, 25, 6, 17, -1, 9, 6]**
+![[Pasted image 20241024013305.png]]
 
 
